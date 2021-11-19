@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&family=Roboto&display=swap");
 
 .App {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-align: center;
   font-weight: 300;
 }
@@ -32,7 +32,7 @@ ul {
 
 .movie-item {
   list-style-type: none;
-  margin: 1rem;
+  margin: 1rem 2rem 1rem 0;
   padding: 0.6rem 1.25rem;
   border: 1px solid #333;
   border-radius: 5px;
