@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&family=Roboto&display=swap');
+
+.App {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-weight: 300;
+}
+
+.heading {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.list-item {
+  list-style-type: none;
+  margin: 1rem;
+  padding: 0.6rem 1.25rem;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.movie-list {
+  flex-direction: column;
+}
+
+.movie-item {
+  list-style-type: none;
+  margin: 1rem;
+  padding: 0.6rem 1.25rem;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
